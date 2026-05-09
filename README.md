@@ -137,26 +137,27 @@ pickleball-for-beginners/
 
 ## 🚀 Local Development
 
+This is a public repository with README.md for code information 
 
 ---
 
 ## 🔗 Related Projects
 
-| Project | URL |
-|---------|-----|
-| BigPickleBalls.com | [bigpickleballs.com](https://bigpickleballs.com) |
-| USAPickleballs.com — Court Directory | [usapickleballs.com](https://usapickleballs.com) |
-| DinkerDates.com — Pickleball Social Network | [dinkerdates.com](https://dinkerdates.com) |
-| Paddle Genius | [paddle-genius.bigpickleballs.com](https://paddle-genius.bigpickleballs.com) |
-| GitHub Portfolio | [github.com/gregorydelacruz](https://github.com/gregorydelacruz) |
+|Project                                    |URL                                                                         |
+|-------------------------------------------|----------------------------------------------------------------------------|
+|BigPickleBalls.com                         |[bigpickleballs.com](https://www.bigpickleballs.com)                            |
+|USAPickleballs.com — Court Directory       |[usapickleballs.com](https://www.usapickleballs.com)                            |
+|DinkerDates.com — Pickleball Social Network|[dinkerdates.com](https://www.dinkerdates.com)                                  |
+|Paddle Genius                              |[paddle-genius.bigpickleballs.com](https://paddle-genius.bigpickleballs.com)|
+|GitHub Portfolio                           |[github.com/gregorydelacruz](https://github.com/gregorydelacruz)            |
 
----
+-----
 
 ## 👤 Author
 
-**Gregory de la Cruz** — founder of BigPickleBalls.com, published author of 25+ pickleball books on Amazon, and USAPA member. Built this course to give every beginner the foundation he wished he'd had on day one.
+**Gregory de la Cruz** — founder of BigPickleBalls.com, published author of 20+ pickleball books on Amazon, and USAPA member. Built this course to give every beginner the foundation he wished he’d had on day one.
 
-- 🌐 [gregorydelacruz.com](https://gregorydelacruz.com)
+- 🌐 [gregorydelacruz.com](https://www.gregorydelacruz.com)
 - 📚 [Amazon Author Page](https://amzn.to/4tpqj3u)
 - 🐙 [GitHub](https://github.com/gregorydelacruz)
 
@@ -164,7 +165,7 @@ pickleball-for-beginners/
 
 ## ⚠️ Copyright & Legal Notice
 
-**This repository is PRIVATE. Unauthorized access, use, or distribution is strictly prohibited.**
+**This repository is PUBLIC. Unauthorized access, use, or distribution is strictly prohibited.**
 
 All content contained in this repository — including but not limited to course materials, chapter text, audio recordings, downloadable resources, code, design, structure, and data — is the exclusive intellectual property of **Gregory de la Cruz / BigPickleBalls.com**.
 
