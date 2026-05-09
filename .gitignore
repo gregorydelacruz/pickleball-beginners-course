@@ -1,0 +1,7 @@
+# Course platform files not tracked here
+*.mp3
+*.wav
+*.mp4
+node_modules/
+.env
+.DS_Store
